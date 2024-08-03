@@ -10,7 +10,7 @@
 - I’m currently learning **Backend**
 - How to reach me **palaitapaskumar8@gmail.com**
 - Know about my experiences: <a href="https://resume-builder-test-new.masaischool.com/resume/?resumeId=66ad366f403a9ded28dcea91&profileId=self&templateName=CrispCanvas&fontSize=medium" target="_blank">Resume</a>
-- My Portfolio Link: <a href="">Portfolio</a>
+- My Portfolio Link: <a href="https://my-portfolio-alpha-beryl-12.vercel.app/">Portfolio</a>
 - Ask me about: **Full Stack**
 
 <br/>
