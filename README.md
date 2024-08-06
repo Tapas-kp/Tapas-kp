@@ -1,5 +1,5 @@
 
-<h1>Hi :wave:! My name is Tapas Kumar Palai and I'm a Full Stack Developer, from India</h1>
+<h1>Hi :wave:! My name is Tapas Kumar Palai and I'm a Aspiring Full Stack Developer, from India</h1>
 <br/>
 
 <h3>As a passionate Full Stack Web Developer and newcomer to the field, I have expertise in both frontend and backend technologies. I am highly enthusiastic about creating dynamic web applications and confident in my ability to learn new things with a curious mind.</h3>
